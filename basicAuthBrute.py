@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #c0ff33b34n
 
-
 from requests.auth import HTTPBasicAuth
 from termcolor import colored
 import multiprocessing
